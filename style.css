@@ -20,7 +20,7 @@
 }
 
 .myblue {
-	color: #336699;	
+	color: #fff;	
 }
 
 .myred {
@@ -1470,3 +1470,49 @@ ul.infoList li a {
 }
 
 /* End Falling Snowflakes*/
+
+.upcoming {
+	color:#fff; 
+	font-size: 24px; 
+	text-align:center; 
+	padding-top: 5px;
+}
+.color-yellow {
+	color: #ffd300
+}
+.date-event {
+	font-size: 21px; 
+	color:#fff; 
+	width: 100%; 
+	text-align:center; 
+	padding-bottom: 20px;
+}
+.position-content {
+	position: relative; 
+	background-color:#000033; 
+	weight: 100%;
+}
+.position-content .today {
+	text-align:center; 
+	font-size: 21px; 
+	padding-top: 30px;
+}
+.oclock {
+	color: #ffd300; 
+	margin: 0 auto; 
+	text-align:center;
+}
+.position-absolute {
+	position: absolute; 
+	left: 0; 
+	top: 40%; 
+	background-color: #333; 
+	opacity: 0.9; 
+	width: 100px; 
+	padding: 2px; 
+	border-radius: 5px; 
+	z-index: 998;
+}
+.position-relative {
+	position: relative;
+}
